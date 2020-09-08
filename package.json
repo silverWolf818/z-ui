@@ -1,0 +1,23 @@
+{
+  "name": "z-ui",
+  "version": "1.0.0",
+  "description": "this is web components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaeSakuras/z-ui.git"
+  },
+  "keywords": [
+    "web",
+    "components"
+  ],
+  "author": "zzh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yaeSakuras/z-ui/issues"
+  },
+  "homepage": "https://github.com/yaeSakuras/z-ui#readme"
+}
